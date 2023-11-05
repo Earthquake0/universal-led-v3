@@ -6,10 +6,23 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXFileReference section */
+		FEA91EAF2AF71820003EECD5 /* universalled_app.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = universalled_app.c; sourceTree = "<group>"; };
+		FEA91EB02AF71820003EECD5 /* universalled_app.ir */ = {isa = PBXFileReference; lastKnownFileType = text; path = universalled_app.ir; sourceTree = "<group>"; };
+		FEA91EB12AF7182C003EECD5 /* app.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = app.png; sourceTree = "<group>"; };
+		FEA91EB22AF7182C003EECD5 /* application.fam */ = {isa = PBXFileReference; lastKnownFileType = text; path = application.fam; sourceTree = "<group>"; };
+		FEA91EB32AF7182C003EECD5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		FEA91EA82AF71813003EECD5 = {
 			isa = PBXGroup;
 			children = (
+				FEA91EAF2AF71820003EECD5 /* universalled_app.c */,
+				FEA91EB02AF71820003EECD5 /* universalled_app.ir */,
+				FEA91EB12AF7182C003EECD5 /* app.png */,
+				FEA91EB22AF7182C003EECD5 /* application.fam */,
+				FEA91EB32AF7182C003EECD5 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
