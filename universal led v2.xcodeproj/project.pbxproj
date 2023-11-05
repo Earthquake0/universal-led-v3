@@ -1,0 +1,69 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXGroup section */
+		FEA91EA82AF71813003EECD5 = {
+			isa = PBXGroup;
+			children = (
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		FEA91EA92AF71813003EECD5 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1500;
+			};
+			buildConfigurationList = FEA91EAC2AF71813003EECD5 /* Build configuration list for PBXProject "universal led v2" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FEA91EA82AF71813003EECD5;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		FEA91EAD2AF71813003EECD5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		FEA91EAE2AF71813003EECD5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FEA91EAC2AF71813003EECD5 /* Build configuration list for PBXProject "universal led v2" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FEA91EAD2AF71813003EECD5 /* Debug */,
+				FEA91EAE2AF71813003EECD5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FEA91EA92AF71813003EECD5 /* Project object */;
+}
