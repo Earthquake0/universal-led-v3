@@ -1,0 +1,14 @@
+App(
+    appid="universalled_app",
+    name="universal led app",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="main_universalled_app",
+    stack_size=4 * 1024,
+    requires=[
+        "gui",
+    ],
+    order=10,
+    fap_icon="app.png",
+    fap_category="infrared",
+    fap_description="Universal IR Remote for LED.",
+)
