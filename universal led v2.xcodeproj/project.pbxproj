@@ -12,6 +12,7 @@
 		FEA91EB12AF7182C003EECD5 /* app.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = app.png; sourceTree = "<group>"; };
 		FEA91EB22AF7182C003EECD5 /* application.fam */ = {isa = PBXFileReference; lastKnownFileType = text; path = application.fam; sourceTree = "<group>"; };
 		FEA91EB32AF7182C003EECD5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		FEA91EB42AF71B29003EECD5 /* Base */ = {isa = PBXFileReference; name = Base; path = Base.lproj/application.fam; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -21,7 +22,7 @@
 				FEA91EAF2AF71820003EECD5 /* universalled_app.c */,
 				FEA91EB02AF71820003EECD5 /* universalled_app.ir */,
 				FEA91EB12AF7182C003EECD5 /* app.png */,
-				FEA91EB22AF7182C003EECD5 /* application.fam */,
+				FEA91EB52AF71B29003EECD5 /* application.fam */,
 				FEA91EB32AF7182C003EECD5 /* README.md */,
 			);
 			sourceTree = "<group>";
@@ -50,6 +51,17 @@
 			);
 		};
 /* End PBXProject section */
+
+/* Begin PBXVariantGroup section */
+		FEA91EB52AF71B29003EECD5 /* application.fam */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FEA91EB42AF71B29003EECD5 /* Base */,
+			);
+			name = application.fam;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		FEA91EAD2AF71813003EECD5 /* Debug */ = {
