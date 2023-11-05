@@ -13,6 +13,7 @@
 		FEA91EB32AF7182C003EECD5 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		FEDDD5632AF7209200116E21 /* application.fam */ = {isa = PBXFileReference; lastKnownFileType = text; path = application.fam; sourceTree = "<group>"; };
 		FEDDD5642AF7227300116E21 /* infrared_app.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = infrared_app.h; sourceTree = "<group>"; };
+		FEDDD5652AF7237800116E21 /* applications_user */ = {isa = PBXFileReference; lastKnownFileType = folder; path = applications_user; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
@@ -25,6 +26,7 @@
 				FEA91EB32AF7182C003EECD5 /* README.md */,
 				FEDDD5632AF7209200116E21 /* application.fam */,
 				FEDDD5642AF7227300116E21 /* infrared_app.h */,
+				FEDDD5652AF7237800116E21 /* applications_user */,
 			);
 			sourceTree = "<group>";
 		};
